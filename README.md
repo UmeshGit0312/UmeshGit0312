@@ -55,9 +55,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" height="50" /> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshgit0312&show_icons=true&locale=en&layout=compact" alt="umeshgit0312" />
-<br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=umeshgit0312&show_icons=true&locale=en" alt="umeshgit0312" /></p>
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshgit0312&" alt="umeshgit0312" /></p>
-</div>
