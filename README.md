@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UmeshGit0312/UmeshGit0312/eb1af4a46659c5a55f98f4b859283625af30d51c/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.gif" alt="Banner Image" />
+  <img src="https://raw.githubusercontent.com/UmeshGit0312/UmeshGit0312/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(1).gif" alt="Banner Image" />
 </p>
 <h1 align="center">Hi 👋, I'm Umesh Soni</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
